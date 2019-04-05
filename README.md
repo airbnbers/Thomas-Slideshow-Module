@@ -1,11 +1,11 @@
 # Bearbnb Slideshow Module
-> For Bearbnb sample product page.  Created using React, Bootstrap, Express, PostgreSQL and Knex.js, a healthy dose of CSS, and deployed on AWS Elastic Beanstalk. This page utilizes responsive design layouts for large to mobile screen sizes.
+> For Bearbnb sample product page.  This app was kept lightweight by using only React, Bootstrap, Express, PostgreSQL, Knex.js, and a healthy dose of CSS. This page utilizes responsive design layouts for large to mobile screen sizes.
 
-This service is currently deployed at http://bearbnbphotos.us-east-2.elasticbeanstalk.com/rooms/1/.  Additional listings can be found at endpoints /rooms/1 to /rooms/100. This page was original displayed on a proxy page along with a booking and reviews service.
+This service is currently deployed on AWS Elastic Beanstalk at http://bearbnbphotos.us-east-2.elasticbeanstalk.com/rooms/1/.  Additional listings can be found at endpoints /rooms/1 to /rooms/100. This page was original displayed on a proxy page along with a booking and reviews service.
 
 ## Related Projects
 
-  - https://github.com/airbnbers/ - For proxy server and additional services.
+  - https://github.com/airbnbers/ - For proxy server, booking, and reviews services.
 
 ## Table of Contents
 
