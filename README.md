@@ -19,7 +19,7 @@ This service is currently deployed at http://bearbnbphotos.us-east-2.elasticbean
 2. Install with 'npm install'.
 3. Create a config.js file with your postgreSQL password.
 4. Build bundle.js with 'npm run build-webpack'.
-5. Run service with 'npm start' and visit `http://localhost:3000' to view service.
+5. Run service with 'npm start' and visit `http://localhost:3001' to view service.
 
 ## Requirements
 
